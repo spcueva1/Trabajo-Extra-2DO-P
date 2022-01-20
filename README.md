@@ -57,7 +57,7 @@ Permite configurar rango de valores, colores degradados y otras configuraciones.
 
 Mapa Conceptual
 
-![]()
+![](https://github.com/spcueva1/Trabajo-Extra-2DO-P/blob/4b5983bdac1162a469c2630de86112501f0fb5b1/Flowchart.jpg)
 
 # 3) Explicacion de procedimiento
 
