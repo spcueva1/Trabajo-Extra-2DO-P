@@ -38,7 +38,39 @@ Alarmas: Mediante las alarmas podemos mantener un registro de las situaciones en
 
 Un sistema de control debe estar equipado para la alteración de una o varias magnitudes de un sistema real con objeto de proporcionar una respuesta activa que modifique su comportamiento. Como ejemplo complejo de un sistema de control se puede pensar en un "edificio inteligente", que comprueba y analiza permanentemente el estado de la temperatura, la iluminación, etc., gracias a diferentes sensores. Mediante un ordenador es capaz de actuar de acuerdo con su programación sobre diversos dispositivos actuadores para regular las condiciones de las estancias y mantenerlas en los niveles deseados. Así pues, un sistema de control comprende, en general, los sistemas y dispositivos (Blanco, 2014)
 
+- Widget utilizados para la interfaz de control
 
+1) Control del interruptor.
+Widget de control
+Activar o desactivar algun LCD del monitor vislizando en el mismo.
+
+2) Interruptor redondo
+Widget de control
+Permite enviar la llamada RPC al dispositivo cuando el usuario cambia el interruptor.
+
+3) Indicador LED
+Widget de control
+Cabia de color dependiendo el estado del esquña activado o no.
+
+4) Brújula
+Últimos valores
+Espera que el valor esté en el rango de 0 a 360. Muestra el valor más reciente del atributo o clave de serie temporal en la brújula.
+
+5) Indicador de barra LCD
+Últimos valores
+Indicador preconfigurado para mostrar cualquier lectura de valor como una barra. Permite configurar rango de valores, colores degradados y otras configuraciones.
+
+6) Gráfico de líneas de serie temporal
+serie de tiempo
+Muestra los cambios en los datos de series temporales a lo largo del tiempo. Por ejemplo, lecturas de temperatura o humedad.
+
+7) Indicador LCD
+Últimos valores
+Indicador preconfigurado para mostrar cualquier lectura de valor como un arco. Permite configurar rango de valores, colores degradados y otras configuraciones.
+
+Mapa Conceptual
+
+![]()
 
 # 3) Explicacion de procedimiento
 
