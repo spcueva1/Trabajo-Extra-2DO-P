@@ -18,21 +18,8 @@ OBJETIVOS ESPECÍFICOS:
 
 
 -	ThingsBoard: es una plataforma IoT de código abierto en la que podemos almacenar, visualizar y analizar los datos de nuestros dispositivos. (Celes, 19)
-
-En esta sesión realizaremos un taller práctico para conectar un nodo The Things Network (concretamente el nodo TTN_MAD V2.1) a ThingsBoard, tratando los siguientes temas:
-
-Usuarios: Una de las características diferenciadoras de ThingsBoad es su capacidad multitenant, es decir, que permite utilizar una misma instancia de la aplicación para distintas organizaciones. Por ejemplo, en el caso de una ciudad, podríamos configurar un tenant para cada empresa de mantenimiento de edificios, de forma que cada una de ellas pudiese gestionar independientemente los edificios de los que es responsable.
-
-Activos: ThingsBoard permite jerarquizar entidades a través de las relaciones entre los activos; siguiendo  el ejemplo anterior, cada empresa de mantenimiento podría crear un activo por cada barrio, y dentro de ellos un activo por cada edificio, y dentro de ellos un activo por cada vivienda.
-
-Dispositivos: Por defecto los dispositivos se integran mediante los protocolos HTTP POST, cliente MQTT o CoAP. Sin embargo, en el caso de The Things Network no podemos usar este camino porque la integración HTTP de ThingsBoard no admite los objetos JSON anidados que genera The Things Network. Afortunadamente ThingsBoard ofrece una aplicación específica para estos casos, denominada ThingsBoard Gateway, que actúa como pasarela entre el bróker MQTT de The Things Network y el de ThingsBoard.
-
-Deashboards: Los datos enviados por los nodos se denominan telemetrías, y podemos visualiarlos utilizando multitud de widgets (tablas, gráficos de líneas, indicadores analógicos…).
-
-Reglas: ThingsBoard incluye un motor de reglas similar a Node-RED con el que podemos analizar las telemetrías y realizar acciones, como enviar mensajes en caso de que se supere cierto umbral de temperatura.
-
-Alarmas: Mediante las alarmas podemos mantener un registro de las situaciones en las que un determinado sensor se encuentra en estado de excepción, es decir, está registrando un valor fuera del rango tolerable (por ejemplo, un sensor de temperatura que supera cierto umbral), o no ha actualizado su telemetría desde hace más tiempo del que tiene asignado.
-
+Existen numerosos protocolos y formatos de datos de IoT, ,algunos de ellos son más populares, como MQTT y JSON. Normalmente la mayoría de las plataformas IoT brindan soporte para los protocolos y formatos de datos más populares desde el primer momento, pero es difícil respaldar a todos en una sola solución.
+Con el crecimiento de la comunidad de código abierto de la plataforma Thingsboard, ha comenzado a recibir solicitudes sobre el soporte de protocolos IoT, como OPC-UA y algunos formatos de datos específicos, de modo que también han decidido implementar esta funcionalidad como un proyecto separado de código abierto que  permitirá unir la plataforma API a, literalmente, cualquier dispositivo.
 
 - Que es una interfaz de control.
 
@@ -54,19 +41,19 @@ Cabia de color dependiendo el estado del esquña activado o no.
 
 4) Brújula
 Últimos valores
-Espera que el valor esté en el rango de 0 a 360. Muestra el valor más reciente del atributo o clave de serie temporal en la brújula.
+Muestra el valor más reciente del atributo o clave de serie temporal en la brújula.
 
 5) Indicador de barra LCD
 Últimos valores
-Indicador preconfigurado para mostrar cualquier lectura de valor como una barra. Permite configurar rango de valores, colores degradados y otras configuraciones.
+Permite configurar rango de valores, colores degradados y otras configuraciones.
 
 6) Gráfico de líneas de serie temporal
 serie de tiempo
-Muestra los cambios en los datos de series temporales a lo largo del tiempo. Por ejemplo, lecturas de temperatura o humedad.
+Muestra los cambios en los datos de series temporales a lo largo del tiempo.
 
 7) Indicador LCD
 Últimos valores
-Indicador preconfigurado para mostrar cualquier lectura de valor como un arco. Permite configurar rango de valores, colores degradados y otras configuraciones.
+Permite configurar rango de valores, colores degradados y otras configuraciones.
 
 Mapa Conceptual
 
