@@ -87,6 +87,8 @@ Mapa Conceptual
 
 Utilizamos el aplicativo ThingsBoard para elaborar una interfaz de control la cual fue puesta en practica como lo muestra la siguiente imagen. 
 
+Para colocar nuevos widgets podemos ir incrementando segun lo necesario y para esto se necita poner el alias que es lo mas improtante seguido las carateristicas que va tener este widgets para su correcto funcionamiento.
+
 ![](https://github.com/spcueva1/Trabajo-Extra-2DO-P/blob/0f8725c14fd3f99b21069637cea2d2f1d7719666/extra%20things/6.png)
 
 
