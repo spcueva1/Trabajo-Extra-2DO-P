@@ -44,23 +44,23 @@ Un sistema de control debe estar equipado para la alteración de una o varias ma
 
 1) ingresar en la plataforma y hacer click en "Pruebalo ahora"
 
-![]()
+![](https://github.com/spcueva1/Trabajo-Extra-2DO-P/blob/0f8725c14fd3f99b21069637cea2d2f1d7719666/extra%20things/1.png)
 
 2) Colocar en edición de la comunidad y señalar demo en vivo ingresar su informacion para registrarse.
 
-![]()
+![](https://github.com/spcueva1/Trabajo-Extra-2DO-P/blob/0f8725c14fd3f99b21069637cea2d2f1d7719666/extra%20things/2.png)
 
 3) En la nueva pestaña colocarse en paneles y agregar un diseño propio.
 
-![]()
+![](https://github.com/spcueva1/Trabajo-Extra-2DO-P/blob/0f8725c14fd3f99b21069637cea2d2f1d7719666/extra%20things/3.png)
 
 4) Hacer clic en el lapiz mas y la imagen del documeto y se podra señeccionar el paquete de widgets.
 
-![]()
+![](https://github.com/spcueva1/Trabajo-Extra-2DO-P/blob/0f8725c14fd3f99b21069637cea2d2f1d7719666/extra%20things/4.png)
 
 5) Seleccionar al gusto dependiendo el criterio que tenga el programa.
 
-![]()
+![](https://github.com/spcueva1/Trabajo-Extra-2DO-P/blob/0f8725c14fd3f99b21069637cea2d2f1d7719666/extra%20things/5.png)
 
 
 
@@ -68,7 +68,7 @@ Un sistema de control debe estar equipado para la alteración de una o varias ma
 
 Utilizamos el aplicativo ThingsBoard para elaborar una interfaz de control la cual fue puesta en practica como lo muestra la siguiente imagen. 
 
-![]()
+![](https://github.com/spcueva1/Trabajo-Extra-2DO-P/blob/0f8725c14fd3f99b21069637cea2d2f1d7719666/extra%20things/6.png)
 
 
 
