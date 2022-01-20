@@ -42,10 +42,33 @@ Un sistema de control debe estar equipado para la alteración de una o varias ma
 
 # 3) Explicacion de procedimiento
 
+1) ingresar en la plataforma y hacer click en "Pruebalo ahora"
+
+![]()
+
+2) Colocar en edición de la comunidad y señalar demo en vivo ingresar su informacion para registrarse.
+
+![]()
+
+3) En la nueva pestaña colocarse en paneles y agregar un diseño propio.
+
+![]()
+
+4) Hacer clic en el lapiz mas y la imagen del documeto y se podra señeccionar el paquete de widgets.
+
+![]()
+
+5) Seleccionar al gusto dependiendo el criterio que tenga el programa.
+
+![]()
 
 
 
 # 4) Respuestados
+
+Utilizamos el aplicativo ThingsBoard para elaborar una interfaz de control la cual fue puesta en practica como lo muestra la siguiente imagen. 
+
+![]()
 
 
 
@@ -56,7 +79,10 @@ Un sistema de control debe estar equipado para la alteración de una o varias ma
 
 # 6) Conclusiones.
 
-
+- Se logro construir un ejemplo de interfaz de control mediante la utilizacion de thingsboard, ademas se logro tener claro como funciona este aplicativo.
+- Se investigo el funcionamiento del aplicativo thingsboard mediante una ardua investigacion en fuentes confiables del internet y se pudo poner en practica.
+- Se diseño en el aplicativo un sistema sobre la interfaz de control utilizando los conocimientos adquiridos por la investigacion incluyendo varios elementos. 
+- Se explico todo lo aprendido del aplicativo y el sistema diseñado de interfaz de control mediante un video explicativo.
 
 # 7) Bibliografia
 
