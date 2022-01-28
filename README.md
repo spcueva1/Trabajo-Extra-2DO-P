@@ -6,13 +6,15 @@ Diseño de un ejemplo de interfaz de control con https://thingsboard.io/
 
 OBJETIVO GENERAL:
 
-- Construir un ejemplo de interfaz de control mediante la utilizacion de thingsboard, asi tener claro como funciona este aplicativo y mostrar evidencias del mismo.
+- Construir un ejemplo de interfaz de control mediante el aplicativo de thingsboard, la cual controle circuitos basicos identificando medidas basicas de los circuitos.
 
 OBJETIVOS ESPECÍFICOS:
 
-- Investigar el funcionamiento del aplicativo thingsboard mediante una ardua investigacion en fuentes confiables del internet y asi lograr utilizar el mismo.
-- Elaborar en el aplicativo un sistema sobre la interfaz de control utilizando los conocimientos adquiridos por la investigacion.
-- Explicar todo lo aprendido del aplicativo y el sistema diseñado de interfaz de control mediante un video explicativo.
+- Investigar el funcionamiento del aplicativo thingsboard sus herramientas para manejar de manera correcta.
+
+- Explicar caracteristicas tecnicas del aplicativo y sus widgets a utilizar.
+
+- Diseñar un circuito utilizando widgets del aplicativo para las mediciones correctas del mismo.
 
 # 2) Marco teorico
 
@@ -99,10 +101,11 @@ Para colocar nuevos widgets podemos ir incrementando segun lo necesario y para e
 
 # 6) Conclusiones.
 
-- Se logro construir un ejemplo de interfaz de control mediante la utilizacion de thingsboard, ademas se logro tener claro como funciona este aplicativo.
-- Se investigo el funcionamiento del aplicativo thingsboard mediante una ardua investigacion en fuentes confiables del internet y se pudo poner en practica.
-- Se diseño en el aplicativo un sistema sobre la interfaz de control utilizando los conocimientos adquiridos por la investigacion incluyendo varios elementos. 
-- Se explico todo lo aprendido del aplicativo y el sistema diseñado de interfaz de control mediante un video explicativo.
+- Para la construccion la interfaz de control mediante el aplicativo de thingsboard, realizamos una investigacion del aplicativo la cual nos dice que este es un sistema de codigo abierto la cual ayuda a almacenar, visualizar y analizar los datos de nuestros dispositivos. 
+
+- Las herramientas utilizadas en esta interfaz fueron las que ayuden a visualizar las lecturas del circuito como medidor de voltaje, intensidad, potencia. Sus especificacios de cada uno fue explicado en el mapa conceptual.
+
+- Los diferentes widgets utilizados fueron modificados segun su conveniencia, cambiando su nombre dependiendo el funcionamiento, las caracteristicas a desarrollar y lo que tiene que mostrar en pantalla. 
 
 # 7) Bibliografia
 
