@@ -12,7 +12,7 @@ OBJETIVOS ESPECÍFICOS:
 
 - Investigar el funcionamiento del aplicativo thingsboard sus herramientas para manejar de manera correcta.
 
-- Explicar caracteristicas tecnicas del aplicativo y sus widgets a utilizar.
+- Conocer caracteristicas tecnicas del aplicativo y sus widgets a utilizar.
 
 - Diseñar un circuito utilizando widgets del aplicativo para las mediciones correctas del mismo.
 
