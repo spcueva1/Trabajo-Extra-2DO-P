@@ -6,8 +6,8 @@ Diseño de un ejemplo de interfaz de control con https://thingsboard.io/
 
 OBJETIVO GENERAL:
 
-- Construir un ejemplo de interfaz de control mediante el aplicativo de thingsboard, la cual controle circuitos basicos identificando medidas basicas de los circuitos.
-
+- Explicar el funcionamiento del aplicativo thingsboard mediante un la utilizacion de una interfaz de control
+-
 OBJETIVOS ESPECÍFICOS:
 
 - Investigar el funcionamiento del aplicativo thingsboard sus herramientas para manejar de manera correcta.
